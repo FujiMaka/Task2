@@ -1,0 +1,27 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+//header
+div #header{
+    margin: 0 auto;
+    width: 800px;
+    background-color: blue;
+}
+#head{
+    width: 600px;
+    float: left;
+   // background-color: aqua;
+}
+#search{
+    width: 80px;
+    float: left;
+   // background-color: bisque;
+    line-height: 35px;
+}
+
+h2{clear: both;}
+a {
+  color: #00B7FF;
+}
